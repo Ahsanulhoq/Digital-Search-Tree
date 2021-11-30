@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556153815 source:c:\users\jahin\desktop\225\project\dst\digital search tree\main.cpp
+	"digitalsearchtree.h"
+
+1556178003 source:c:\users\jahin\desktop\225\project\dst\digital search tree\src\digitalsearchtree.cpp
+	"digitalsearchtree.h"
+
+1556131292 c:\users\jahin\desktop\225\project\dst\digital search tree\include\digitalsearchtree.h
+	<iostream>
+	<string>
+
